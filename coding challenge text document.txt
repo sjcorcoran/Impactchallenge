@@ -1,4 +1,4 @@
-﻿using System;
+ System;
 using System.Collections.Generic;
 using System.Linq;
 using codingchallenge.Models;
@@ -82,4 +82,18 @@ namespace codingchallenge
 
     }
 
+}
+
+
+Employee.cs (built in Models) 
+
+namespace codingchallenge.Models
+{
+    
+    public class Employee
+    {
+        public string employee_Name {get; set;}
+        public int employee_ID {get; set;}
+        public string response_Text {get; set;}
+    }
 }
