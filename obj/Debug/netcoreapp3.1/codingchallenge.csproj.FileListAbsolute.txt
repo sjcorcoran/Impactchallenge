@@ -1,0 +1,13 @@
+C:\Users\seanj\Desktop\codingchallenge\bin\Debug\netcoreapp3.1\codingchallenge.exe
+C:\Users\seanj\Desktop\codingchallenge\bin\Debug\netcoreapp3.1\codingchallenge.deps.json
+C:\Users\seanj\Desktop\codingchallenge\bin\Debug\netcoreapp3.1\codingchallenge.runtimeconfig.json
+C:\Users\seanj\Desktop\codingchallenge\bin\Debug\netcoreapp3.1\codingchallenge.runtimeconfig.dev.json
+C:\Users\seanj\Desktop\codingchallenge\bin\Debug\netcoreapp3.1\codingchallenge.dll
+C:\Users\seanj\Desktop\codingchallenge\bin\Debug\netcoreapp3.1\codingchallenge.pdb
+C:\Users\seanj\Desktop\codingchallenge\obj\Debug\netcoreapp3.1\codingchallenge.csprojAssemblyReference.cache
+C:\Users\seanj\Desktop\codingchallenge\obj\Debug\netcoreapp3.1\codingchallenge.csproj.CoreCompileInputs.cache
+C:\Users\seanj\Desktop\codingchallenge\obj\Debug\netcoreapp3.1\codingchallenge.AssemblyInfoInputs.cache
+C:\Users\seanj\Desktop\codingchallenge\obj\Debug\netcoreapp3.1\codingchallenge.AssemblyInfo.cs
+C:\Users\seanj\Desktop\codingchallenge\obj\Debug\netcoreapp3.1\codingchallenge.dll
+C:\Users\seanj\Desktop\codingchallenge\obj\Debug\netcoreapp3.1\codingchallenge.pdb
+C:\Users\seanj\Desktop\codingchallenge\obj\Debug\netcoreapp3.1\codingchallenge.genruntimeconfig.cache
